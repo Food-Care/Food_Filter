@@ -2,7 +2,7 @@
 name: "\U0001F300[REFACTOR]"
 about: 코드 구조 개선 및 리팩토링 작업
 title: ''
-labels: ''
+labels: refactor
 assignees: 20inseong, dlcodns
 
 ---
