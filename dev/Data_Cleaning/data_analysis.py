@@ -37,10 +37,10 @@ def find_ingredients_with_keywords(data_path, keywords_to_find):
 
 
 if __name__ == "__main__":
-    SEARCH_KEYWORDS = ["오징어"]
+    SEARCH_KEYWORDS = ["빵"]
 
     print(f"지정한 키워드: {SEARCH_KEYWORDS}")
     
-    input_file = "식품데이터_최종_표준화_완료.json"
+    input_file = "./Data_Storage/정제 데이터/식품데이터_최종_표준화_완료.json"
 
     find_ingredients_with_keywords(input_file, SEARCH_KEYWORDS)
